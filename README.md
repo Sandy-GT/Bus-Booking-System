@@ -6,5 +6,6 @@ The Bus Booking System is a web-based application designed to simplify the proce
 ***A simple and modern interface***
 ![image](https://github.com/Sandy-GT/Java-Projects/assets/173798200/58843880-ecb5-4fe1-812f-9c9e17efbc43)
 ***Add your travel agency and other details***
-
+![image](https://github.com/Sandy-GT/Java-Projects/assets/173798200/1acaf3e3-c654-48ff-8d67-540a4afa31e6)
 ***Customize it on your own***
+![image](https://github.com/Sandy-GT/Java-Projects/assets/173798200/5e485d38-e929-4239-8a4c-45b68bff9eda)
