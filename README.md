@@ -9,3 +9,10 @@ Add your travel agency and other details<br>
 ![image](https://github.com/Sandy-GT/Java-Projects/assets/173798200/1acaf3e3-c654-48ff-8d67-540a4afa31e6)<br><br>
 Customize it on your own<br>
 ![image](https://github.com/Sandy-GT/Java-Projects/assets/173798200/5e485d38-e929-4239-8a4c-45b68bff9eda)<br><br>
+# Requirements 🔧
+. Java 11 or higher.
+# Installation 🔌
+1. Download the Rar file from the rar folder in the repo.
+2. Install the Netbeans or any other Java IDE.
+3. Import the downloaded project in the IDE.
+4. Run the application.
