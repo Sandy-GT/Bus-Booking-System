@@ -12,7 +12,9 @@ Customize it on your own<br>
 # Requirements 🔧
 . Java 11 or higher.
 # Installation 🔌
-1. Download the Rar file from the rar folder in the repo.
+1. Download the Rar file as "Bus Booking System" from the dist folder in the repo.
 2. Install the Netbeans or any other Java IDE.
 3. Import the downloaded project in the IDE.
 4. Run the application.
+# Issues 
+If you are facing some issues while running the project. It means you haven't installed the required libraries for successful working of the application.
